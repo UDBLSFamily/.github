@@ -16,7 +16,7 @@ The heart of our organization is the **Job Challenge**, a structured roadmap des
 * **Work-Study Mindset:** We encourage acquiring structured professional experience from the first year to graduate from university as "mid-level ready."
 
 ## 📂 Featured Repositories
-* [**Job-Challenge-Roadmap**](https://github.com/UDBLSFamily/Job-Challenge-Roadmap): Our main repository containing all training modules, modernizing the curriculum with AI, Data Science, and Cybersecurity.
+* [**Job-Challenge-Roadmaps**](https://github.com/UDBLSFamily/job-challenge-roadmaps): Our main repository containing all training modules, modernizing the curriculum with AI, Data Science, and Cybersecurity.
 * **Community-Projects:** Where we build real-world tools, manifesting "spirit and power" through concrete technical demonstrations.
 
 ## 💎 Our Values
@@ -41,6 +41,4 @@ Follow our journey and join the conversation on all social media platforms under
 * [**TikTok**](https://tiktok.com/@UDBLSFamily)
 
 ---
-"But as for you, continue in what you have learned and have become convinced of." - 2 TIMOTHY 3:14
-
----
+"But as for you, continue in what you have learned and have become
